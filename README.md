@@ -7,9 +7,8 @@
 <h2>Learning Objectives</h2>
 <p>At the end of the project, we should be able to explain the project without the help of Google</p>
 
-<h2>General</h2>
+<h3>General</h3>
 <ul>
-
     <li>Who designed and implemented the original Unix operating system</li>
     <li>Who wrote the first version of the UNIX shell</li>
     <li>Who invented the B programming language (the direct predecessor to the C programming language)</li>
@@ -24,7 +23,6 @@
     <li>How to execute another program with the execve system call</li>
     <li>How to suspend the execution of a process until one of its children terminates</li>
     <li>What is EOF / “end-of-file”?</li>
-
 </ul>
 
 <ul>
