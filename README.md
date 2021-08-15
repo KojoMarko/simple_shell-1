@@ -56,8 +56,8 @@ Sample Usage
 ```
 $ ls -al
 total 4
--rw-rw-r-- 1 vagrant vagrant   234 Mar 28 19:32 file1.c
--rw-rw-r-- 1 vagrant vagrant    69 Mar 28 19:32 file2.c
+-rw-rw-r-- 1 vagrant vagrant   234 Aug 14 19:32 file1.c
+-rw-rw-r-- 1 vagrant vagrant    69 Aug 14 19:32 file2.c
 $ echo "This is a pretty cool!"
 This is pretty cool!
 $ man ./man_1_simple_shell (opens our manpage for more information)
@@ -67,9 +67,6 @@ Stop and return to your original shell
 $ exit
 (your_terminal)$
 ```
-<hr>
-<ul>
-    <h2>Authors</h2>
-    <li>Leslie D Shumba</li>
-    <li> John Merga</li>
-</ul>
+### Authors
+[Leslie D Shumba][https://github.com/layan2k]
+[John Merga'][https://github.com/johnmerga]
