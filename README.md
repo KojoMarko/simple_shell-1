@@ -70,5 +70,7 @@ $ exit
 ```
 <hr>
 <h3>Authors</h3>
-<a href="https://github.com/layan2k">Leslie D Shumba</a>
-<a href="https://github.com/johnmerga">John Merga'</a>
+<ul>
+<li><a href="https://github.com/layan2k">Leslie D Shumba</a></li>
+<li><a href="https://github.com/johnmerga">John Merga'</a></li>
+</ul>
