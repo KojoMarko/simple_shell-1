@@ -67,8 +67,7 @@ Stop and return to your original shell
 $ exit
 (your_terminal)$
 ```
-
-
+<hr>
 <ul>
     <h2>Authors</h2>
     <li>Leslie D Shumba</li>
