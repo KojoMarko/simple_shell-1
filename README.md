@@ -68,6 +68,7 @@ $ exit
 (your_terminal)$
 ```
 ```
-### Authors
-[Leslie D Shumba][https://github.com/layan2k]
-[John Merga'][https://github.com/johnmerga]
+<hr>
+<h3>Authors</h3>
+<a href="https://github.com/layan2k">Leslie D Shumba</a>
+<a href="https://github.com/johnmerga">John Merga'</a>
