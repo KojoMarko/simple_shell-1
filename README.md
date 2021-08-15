@@ -67,6 +67,7 @@ Stop and return to your original shell
 $ exit
 (your_terminal)$
 ```
+```
 ### Authors
 [Leslie D Shumba][https://github.com/layan2k]
 [John Merga'][https://github.com/johnmerga]
