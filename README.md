@@ -25,6 +25,50 @@
     <li>What is EOF / “end-of-file”?</li>
 </ul>
 
+<h3>Environment</h3>
+<ul>
+    <li>Language: C</li>
+    <li>Style Guideline<a href="https://github.com/holbertonschool/Betty/wiki">Betty style</a></li>
+    <li>OS: Ubuntu 14.04 LTS</li>
+</ul>
+
+<h2>How To install and Use</h2>
+<br>
+<h4>Install and Compile</h4>
+<br>
+<hr>
+(your_terminal)$ git clone https://github.com/layan2k/simple_shell.git
+(your_terminal)$ cd simple_shell
+(your_terminal)$ gcc -Wall -Werror -Wextra -pedantic -Wno-format *.c -o simple_shell
+
+```
+**Non-Interactive Mode**
+```
+echo "ls -l" | ./simple_shell
+```
+**Interactive Mode***
+Activate the shell
+```
+(your_terminal)$ ./simple_shell
+$
+```
+Sample Usage
+```
+$ ls -al
+total 4
+-rw-rw-r-- 1 vagrant vagrant   234 Mar 28 19:32 file1.c
+-rw-rw-r-- 1 vagrant vagrant    69 Mar 28 19:32 file2.c
+$ echo "This is a pretty cool!"
+This is pretty cool!
+$ man ./man_1_simple_shell (opens our manpage for more information)
+```
+Stop and return to your original shell
+```
+$ exit
+(your_terminal)$
+```
+
+
 <ul>
     <h2>Authors</h2>
     <li>Leslie D Shumba</li>
