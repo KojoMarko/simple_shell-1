@@ -59,9 +59,9 @@
 |8          |`int_to_string.c`  |converts int to string to write error messages |
 |9          |`_execve.c`  |executes and frees command, then exits program|
 |10          |`which.c`  |changes directories|
-<!-- |11          |`_cd.c`  |finds environment variable index node, sets and unsets     |
+|11          |`_cd.c`  |finds environment variable index node, sets and unsets     |
 |12         |`get_line.c`  |reads user's typed input into buffer|
-|13         |`linked_lists.c`  |adds and deletes nodes; prints and frees linked list|
+<!-- |13         |`linked_lists.c`  |adds and deletes nodes; prints and frees linked list|
 |14         |`_strcat.c`  |concatenates two strings|
 |15         |`_strcmp.c`  |compares if two strings match|
 |16         |`_strdup.c`  |duplicates a string|
