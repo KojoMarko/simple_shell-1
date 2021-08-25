@@ -44,29 +44,33 @@
     <li>main.c</li>
 </ol>
 <h2>Shell Function Files</h2>
-<ul>
-    <li>prompt.c: <br>handles outline of shell's reprompting and executing</li>
-    <li>print_error.c: <br>prints special error messages for certain fails</li>
-    <li>__exit.c: <br>handles if user types exit or exit(value)</li>
-    <li>get_env.c: <br>finds and returns copy of environmental variable</li>
-    <li>env_linked_list.c: <br>prints and creates linked list of envrionmental variables</li>
-    <li>set_unset_env.c: <br>finds environment variable index node, sets and unsets</li>
-    <li>free_double_ptr.c: <br>frees double pointers (user's command, arrays)</li>
-    <li>int_to_string.c: <br>converts int to string to write error messages</li>
-    <li>_execve.c: <br>executes and frees command, then exits program</li>
-    <li>which.c:  <br>appends command to PATHs, fleshes paths out, returns match</li>
-    <li>_cd.c: <br>changes directories</li>
-    <li>get_line.c: <br>reads user's typed input into buffer</li>
-    <li>linked_lists.c <br>adds and deletes nodes; prints and frees linked list</li>
-    <li>_strcat.c: <br>concatenates two strings</li>
-    <li>_strcmp.c: <br>compares if two strings match</li>
-    <li>_strdup.c: <br>duplicates a string</li>
-    <li>_str_tok.c: <br>tokenizes user's command input and returns array</li>
-    <li>_realloc.c: <br>helper function handles reallocation</li>
-    <li>non_interactive.c: <br>handles output when shell is called outside of shell</li>
-    <li>c_str_tok.c: <br>tokenizes PATH to include ":" as Null, checks current dir</li>
-    <li>_strcpy.c: <br>copies a string</li>
-</ul>
+
+## Shell Function Files</h2>
+
+|           |FILE            |description                         |
+|-----------|-----------------|-----------------------------|
+|1			|`'prompt.c'`     |handles outline of shell's reprompting and executing |
+<!-- |2          |`print_error.c`  |prints special error messages for certain fails |
+|3          |`__exit.c`  |handles if user types exit or exit(value)            |
+|4          |`get_env.c`  |finds and returns copy of environmental variable    |
+|5          |`env_linked_list.c`  |prints and creates linked list of envrionmental variables |
+|6          |`set_unset_env.c`  |finds environment variable index node, sets and unsets      |
+|7          |`free_double_ptr.c`|frees double pointers (user's command, arrays)|
+|8          |`int_to_string.c`  |converts int to string to write error messages |
+|9          |`_execve.c`  |executes and frees command, then exits program|
+|10          |`which.c`  |changes directories|
+|11          |`_cd.c`  |finds environment variable index node, sets and unsets     |
+|12         |`get_line.c`  |reads user's typed input into buffer|
+|13         |`linked_lists.c`  |adds and deletes nodes; prints and frees linked list|
+|14         |`_strcat.c`  |concatenates two strings|
+|15         |`_strcmp.c`  |compares if two strings match|
+|16         |`_strdup.c`  |duplicates a string|
+|17         |`_str_tok.c`  |tokenizes user's command input and returns array|
+|18         |`_realloc.c`  |helper function handles reallocation|
+|19         |`c_str_tok.c`  |handles output when shell is called outside of shell|
+|20         |`_strcpy.c`  |copies a string| -->
+
+
 <hr>
 <br>
 <h2>How To install and Use</h2>
@@ -102,7 +106,7 @@ $ man ./man_1_simple_shell (opens our manpage for more information)
 Stop and return to your original shell
 ```
 $ exit
-(your_terminal)
+(your_terminal)$
 ```
 ```
 <hr>
