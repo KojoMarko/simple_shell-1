@@ -102,7 +102,7 @@ $ man ./man_1_simple_shell (opens our manpage for more information)
 Stop and return to your original shell
 ```
 $ exit
-(your_terminal)$
+(your_terminal)
 ```
 ```
 <hr>
