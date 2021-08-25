@@ -65,9 +65,9 @@
 |14         |`_strcat.c`  |concatenates two strings|
 |15         |`_strcmp.c`  |compares if two strings match|
 |16         |`_strdup.c`  |duplicates a string|
-<!-- |17         |`_str_tok.c`  |tokenizes user's command input and returns array|
+|17         |`_str_tok.c`  |tokenizes user's command input and returns array|
 |18         |`_realloc.c`  |helper function handles reallocation|
-|19         |`c_str_tok.c`  |handles output when shell is called outside of shell|
+<!-- |19         |`c_str_tok.c`  |handles output when shell is called outside of shell|
 |20         |`_strcpy.c`  |copies a string| -->
 
 
