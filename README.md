@@ -61,9 +61,9 @@
 |10          |`which.c`  |changes directories|
 |11          |`_cd.c`  |finds environment variable index node, sets and unsets     |
 |12         |`get_line.c`  |reads user's typed input into buffer|
-<!-- |13         |`linked_lists.c`  |adds and deletes nodes; prints and frees linked list|
+|13         |`linked_lists.c`  |adds and deletes nodes; prints and frees linked list|
 |14         |`_strcat.c`  |concatenates two strings|
-|15         |`_strcmp.c`  |compares if two strings match|
+<!-- |15         |`_strcmp.c`  |compares if two strings match|
 |16         |`_strdup.c`  |duplicates a string|
 |17         |`_str_tok.c`  |tokenizes user's command input and returns array|
 |18         |`_realloc.c`  |helper function handles reallocation|
