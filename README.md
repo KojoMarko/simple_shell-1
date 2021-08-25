@@ -43,7 +43,7 @@
     <li>shell.h</li>
     <li>main.c</li>
 </ol>
-<h2>Shell Function Files</h2>
+
 
 ## Shell Function Files</h2>
 
