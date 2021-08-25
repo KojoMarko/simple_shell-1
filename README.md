@@ -50,9 +50,9 @@
 |           |FILE            |description                         |
 |-----------|-----------------|-----------------------------|
 |1			|`'prompt.c'`     |handles outline of shell's reprompting and executing |
-<!-- |2          |`print_error.c`  |prints special error messages for certain fails |
+|2          |`print_error.c`  |prints special error messages for certain fails |
 |3          |`__exit.c`  |handles if user types exit or exit(value)            |
-|4          |`get_env.c`  |finds and returns copy of environmental variable    |
+<!-- |4          |`get_env.c`  |finds and returns copy of environmental variable    |
 |5          |`env_linked_list.c`  |prints and creates linked list of envrionmental variables |
 |6          |`set_unset_env.c`  |finds environment variable index node, sets and unsets      |
 |7          |`free_double_ptr.c`|frees double pointers (user's command, arrays)|
