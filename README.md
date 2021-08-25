@@ -28,7 +28,7 @@
 <ul>
     <li>Language: C</li>
     <li>Style Guideline<a href="https://github.com/holbertonschool/Betty/wiki">Betty style</a></li>
-    <li>OS: Ubuntu 14.04 LTS</li>
+    <li>OS: Ubuntu 20.04 LTS</li>
 </ul>
 <h2>Resources</h2>
 <ul>
