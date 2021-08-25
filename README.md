@@ -56,10 +56,10 @@
 |5          |`env_linked_list.c`  |prints and creates linked list of envrionmental variables |
 |6          |`set_unset_env.c`  |finds environment variable index node, sets and unsets      |
 |7          |`free_double_ptr.c`|frees double pointers (user's command, arrays)|
-<!-- |8          |`int_to_string.c`  |converts int to string to write error messages |
+|8          |`int_to_string.c`  |converts int to string to write error messages |
 |9          |`_execve.c`  |executes and frees command, then exits program|
 |10          |`which.c`  |changes directories|
-|11          |`_cd.c`  |finds environment variable index node, sets and unsets     |
+<!-- |11          |`_cd.c`  |finds environment variable index node, sets and unsets     |
 |12         |`get_line.c`  |reads user's typed input into buffer|
 |13         |`linked_lists.c`  |adds and deletes nodes; prints and frees linked list|
 |14         |`_strcat.c`  |concatenates two strings|
